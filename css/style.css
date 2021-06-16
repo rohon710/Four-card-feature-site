@@ -1,0 +1,115 @@
+body{
+  background-color: #F3F4ED;
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    line-height: 2;
+}
+.heading1{
+    font-family: 'Poppins', sans-serif;
+  font-weight: lighter;
+  margin-bottom: 0;
+padding-top: 50px;
+}
+.heading2{
+  font-family: 'Poppins', sans-serif;
+  font-weight: 600;
+  margin-top: 0;
+
+}
+.subtitle{
+  width: 40%;
+  margin: auto;
+  font-size: 15px;
+  margin-bottom: 100px;
+  color: grey;
+}
+.main-container{
+  margin-top: 50px;
+}
+.box1{
+  background-color: white;
+  border-top:solid;
+  border-color: red;
+  height: 200px;
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+  text-align: left;
+  margin-top: 0;
+  line-height: normal;
+
+}
+.box2{
+  background-color: white;
+  border-top:solid;
+  border-color: cyan;
+  height: 200px;
+  width:300px;
+  position: absolute;
+  top:475px;
+  left: 175px;
+  text-align: left;
+  line-height: normal;
+
+}
+.box3{
+  background-color: white;
+    border-top:solid;
+    border-color: orange;
+  height: 200px;
+  width:300px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 45px;
+  text-align: left;
+  line-height: normal;
+}
+.box4{
+  background-color: white;
+  border-top:solid;
+  border-color: blue;
+  height: 200px;
+  width:300px;
+  position:absolute;
+  right: 175px;
+  top:475px;
+  text-align: left;
+  line-height: normal;
+}
+.calculator{
+  font-size: .725rem;
+  color:grey;
+  margin-left: 30px;
+  margin-right: 40px;
+}
+.karma{
+  font-size: .725rem;
+  color:grey;
+  margin-left: 30px;
+  margin-right: 40px;
+}
+.supervisor{
+  font-size: .725rem;
+  color:grey;
+  margin-left: 30px;
+  margin-right: 40px;
+}
+.team{
+  font-size: .725rem;
+  color:grey;
+  margin-left: 30px;
+  margin-right: 40px;
+}
+.heading-box1{
+  margin-left: 30px;
+  margin-top: 30px;
+}
+
+h3{
+  margin-left: 30px;
+}
+img{
+   float:right;
+   margin-right: 40px;
+   margin-bottom: 25px;
+}
